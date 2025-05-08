@@ -19,6 +19,6 @@
 ---
 
 ### 📫 Reach Me:
-- 💬 Discord: `amruTzy#1234`
+- 💬 Discord: `cornva_`
 - 📷 IG: [@tegar057](https://instagram.com/tegar057)
 - 💼 LinkedIn: [linkedin.com/in/amruu](https://www.linkedin.com/in/amruu/))
