@@ -3,7 +3,7 @@
 > ⚔️ Grinding code kayak farming EXP  
 > 🎮 Gamer (kadang), 💻 Developer (sering), ☕ Penikmat kopi (wajib)
 
-![Chill Mario](https://github.com/amruTzy/amruTzy/src/chill-mario.png)
+![Chill Mario](https://github.com/amruTzy/amruTzy/src/chillmario.gif)
 
 ### 🧩 What I'm up to:
 - 🌱 Belajar hal baru tiap hari, walau cuma satu baris code
